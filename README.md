@@ -13,6 +13,6 @@ TopCoder
 
 POJ -Peiking University online judge.
 
-*[CodeCon] (https://codecon.bloomberg.com/challenger-series/921) -Bloomberg CodeCon.
+[CodeCon] (https://codecon.bloomberg.com/challenger-series/921) -Bloomberg CodeCon.
 
 
